@@ -1,0 +1,71 @@
+.portfolio{
+
+}
+.portImage{
+    height: 190px;
+    width: 220px;
+    border-radius: 5%;
+    opacity: 50%;
+        
+}
+.portsimpleText{
+    font-size: 12px;
+    color:rgb(255, 60, 0);
+    margin-left: 15px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.portlargeText{
+    font-size: 28px;
+    display: flex;
+    position: relative;
+    margin-bottom: 20px;
+    justify-content: center;    
+}
+.portBtnOne{
+    
+    display:flex;
+    position: relative;
+    justify-content: center;
+    margin:0px 160px 0px 160px ;
+    
+
+}
+.portBtnTwo{
+    
+    display:flex;
+    position: relative;
+    justify-content: center;
+  
+   
+
+}
+.subtopicOne{
+    font-size:18px ;
+    text-align: left;
+    padding: 0;
+   
+}
+.subtopicTwo{
+    font-size:18px ;
+    text-align: left;
+    padding: 0;
+   
+}
+.topic{
+    font-size: 10px;
+    text-align: left;
+    color:rgb(255, 60, 0);
+}
+
+
+.btndesign{
+    padding:30px;
+    border: none;
+    justify-content: center;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.6);
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
